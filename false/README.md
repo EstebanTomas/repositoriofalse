@@ -1,0 +1,1 @@
+este repositorio fue creado con el fin de practicar la conexión entre mi archivo local y mi repositorio en github para tener un control de las versines de los proyectos que desarrollare.
